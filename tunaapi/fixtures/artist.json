@@ -1,0 +1,21 @@
+[
+    {
+      "model": "tunaapi.artist",
+      "pk": 1,
+      "fields": {
+        "name": "John Doe",
+        "age": 30,
+        "bio": "Some artist text."
+      }
+    },
+    {
+      "model": "tunaapi.artist",
+      "pk": 2,
+      "fields": {
+        "name": "Jane Doe",
+        "age": 25,
+        "bio": "Another artist text."
+      }
+    }
+  ]
+  

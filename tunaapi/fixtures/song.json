@@ -1,0 +1,23 @@
+[
+    {
+      "model": "tunaapi.song",
+      "pk": 1,
+      "fields": {
+        "title": "John Doe",
+        "artist_id": 1,
+        "album": "Some Album text.",
+        "length": 60
+      }
+    },
+    {
+      "model": "tunaapi.song",
+      "pk": 2,
+      "fields": {
+        "title": "Jane Doe",
+        "artist_id": 1,
+        "album": "Another Album text.",
+        "length": 60
+      }
+    }
+  ]
+  
