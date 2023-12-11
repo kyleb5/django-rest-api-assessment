@@ -57,7 +57,7 @@ class ArtistView(ViewSet):
 
 
 class ArtistSerializer(serializers.ModelSerializer):
-    """JSON serializer for event
+    """JSON serializer for artist
     """
 
     class Meta:
